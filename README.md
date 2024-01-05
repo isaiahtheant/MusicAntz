@@ -1,6 +1,8 @@
 # MusicAntz #
 
-A JavaFX application that allows you to add, edit, and filter songs.
+A JavaFX application designed to ease the management of your music library.
+MusicAntz allows you to add, edit, and filter songs based on the year, artist, and genre. 
+Aditionally it allows you to select a random song from your vast library of songs that you may add.
 
 ![MusicAntz MainScene](https://github.com/isaiahtheant/MusicAntz/assets/117880027/0488e27a-fdba-47d2-83af-cf158b1b4fd4)
 
